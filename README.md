@@ -8,3 +8,4 @@
 * [React 开发必须知道的 34 个技巧【近1W字】](https://juejin.im/post/5dcb5a80e51d4520db19b906)
 * [消息队列常见的 5 个应用场景](https://segmentfault.com/a/1190000017130224)
 * [js中的栈、堆、队列、内存空间](https://www.cnblogs.com/slly/p/10366290.html)
+* [React技术揭秘](https://react.iamkasong.com/)
